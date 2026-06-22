@@ -17,12 +17,12 @@
   --border: rgba(127, 143, 74, 0.25); /* muted moss green */
 
   /* Primary Accent (Olive Theme) */
-  --gold: #6B7D3A;        /* olive green (main accent) */
-  --gold-deep: #4F5D2A;   /* deep olive */
+  --gold: #7d3a3a;        /* olive green (main accent) */
+  --gold-deep: #5d2a2a;   /* deep olive */
 
   /* Text */
-  --text: #4F5D2A;        /* deep olive instead of black */
-  --muted: #7A7266;       /* taupe gray */
+  --text: #5d2a2a;        /* deep olive instead of black */
+  --muted: #7a6666;       /* taupe gray */
 
   /* Shadows */
   --shadow: 0 18px 45px rgba(79, 93, 42, 0.12);
@@ -859,3 +859,5 @@ section {
     max-width: 85%;
   }
 }
+
+
